@@ -3,7 +3,6 @@
 
 **Semillaria** es una web app pensada para jardineros urbanos. Permite gestionar el inventario de semillas del hogar, organizar el calendario de siembra y cosecha, y registrar el historial de producción del jardín.
 Este proyecto busca ofrecer una herramienta útil, accesible y visualmente amigable para quienes cultivan en espacios reducidos como balcones, patios y terrazas.
-<br> <br>
 
 ---
 
@@ -16,7 +15,6 @@ Este proyecto busca ofrecer una herramienta útil, accesible y visualmente amiga
 🪴 Dashboard con tarjetas visuales de tus cultivos activos.  
 📊 Historial y seguimiento de producción por planta o categoría.  
 👥 Registro de usuarios y gestión personalizada del jardín.
-<br>
 
 ---
 
@@ -47,7 +45,6 @@ Este proyecto busca ofrecer una herramienta útil, accesible y visualmente amiga
   - Organización en GitHub para la gestión del proyecto
   - Integración continua y despliegue automático (CI/CD básico)
   - Plataformas cloud con planes gratuitos para el deploy
-<br>
 
 ---
 
@@ -62,7 +59,6 @@ El proyecto está dividido en múltiples repositorios, siguiendo una arquitectur
    Aplicación web (SPA) enfocada en la experiencia de usuario y visualización de datos.
 - **Backend**  
    API REST encargada de la lógica de negocio, persistencia de datos y reglas del dominio.
-<br>
 
 ---
 
@@ -77,7 +73,6 @@ Actualmente el proyecto se encuentra en fase de:
 - Definición de requerimientos
 - Diseño de arquitectura
 - Preparación de repositorios y entorno
-<br>
 
 ---
 
