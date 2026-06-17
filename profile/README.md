@@ -1,64 +1,113 @@
 # 🌱 Semillaria
 <br>
 
-**Semillaria** es una web app pensada para jardineros urbanos. Permite gestionar el inventario de semillas del hogar, organizar el calendario de siembra y cosecha, y registrar el historial de producción del jardín.
-Este proyecto busca ofrecer una herramienta útil, accesible y visualmente amigable para quienes cultivan en espacios reducidos como balcones, patios y terrazas.
+**Semillaria** es una plataforma web orientada a la gestión de jardines, huertas y espacios verdes, diseñada para facilitar la planificación, registro y aprendizaje sobre biodiversidad urbana.
+
+El proyecto combina herramientas de organización, educación ambiental y conocimiento ecológico con el objetivo de ayudar a las personas a crear espacios verdes más productivos, sostenibles y biodiversos.
+
+---
+<br>
+
+## 🎯 Objetivos
+- Organizar jardines y huertas de manera simple.
+- Registrar siembras, cosechas y tareas de mantenimiento.
+- Gestionar inventarios de semillas y plantas.
+- Facilitar el aprendizaje sobre flora, fauna y biodiversidad.
+- Fomentar prácticas de jardinería sostenible.
+- Construir una base de conocimiento sobre relaciones ecológicas.
 
 ---
 
 <br>
 
-## 🚀 Características principales
-
-📦 Inventario de semillas, flores, hortalizas y aromáticas.  
-🗓️ Calendario personalizado con tareas como siembra, cosecha, fertilización y rotación.  
-🪴 Dashboard con tarjetas visuales de tus cultivos activos.  
-📊 Historial y seguimiento de producción por planta o categoría.  
-👥 Registro de usuarios y gestión personalizada del jardín.
-
----
-
-<br>
-
-## 🛠️ Tecnologías utilizadas
-
-- **Frontend:**
-  - React
-  - Tailwind CSS
-  - React Router
-  - Fetch API
-  - Zustand 
-- **Backend:**
-  - Node.js
-  - Express
-  - PostgreSQL
-  - Prisma ORM 
-- **Autenticación:**
-  - JSON Web Tokens (JWT)
-- **Testing:**
-  - Jest
-  - Supertest (API)
-  - Vitest
-  - React Testing Library
-- **Infraestructura y herramientas:**
-  - Git y GitHub para control de versiones
-  - Organización en GitHub para la gestión del proyecto
-  - Integración continua y despliegue automático (CI/CD básico)
-  - Plataformas cloud con planes gratuitos para el deploy
+## ✨ Funcionalidades previstas
+### 🪴 Gestión del jardín
+- Creación de jardines y parcelas.
+- Registro de cultivos.
+- Seguimiento del estado de las plantas.
+- Historial de actividades.
+### 📅 Calendario de cultivo
+- Siembra.
+- Trasplante.
+- Fertilización.
+- Poda.
+- Cosecha.
+- Rotación de cultivos.
+### 📦 Inventario
+- Semillas.
+- Plantines.
+- Herramientas.
+- Insumos.
+### 🌾 Catálogo biológico
+- Plantas.
+- Insectos.
+- Aves.
+. Hongos.
+### 🦋 Relaciones ecológicas como:
+- Plantas nectaríferas ↔ polinizadores.
+- Plantas hospederas ↔ mariposas.
+- Plagas ↔ controladores biológicos.
+- Asociaciones beneficiosas entre especies.
+### 📊 Dashboard
+- Estado general del jardín.
+- Próximas tareas.
+- Actividad reciente.
+- Indicadores de biodiversidad.
 
 ---
 
 <br>
 
-## 📁 Arquitectura general del proyecto
+## 🏗️ Arquitectura
 
-El proyecto está dividido en múltiples repositorios, siguiendo una arquitectura frontend / backend desacoplada:
+Actualmente el proyecto se encuentra en desarrollo activo.
 
-### 📦 Repositorios principales
-- **Frontend**  
-   Aplicación web (SPA) enfocada en la experiencia de usuario y visualización de datos.
-- **Backend**  
-   API REST encargada de la lógica de negocio, persistencia de datos y reglas del dominio.
+Stack tecnológico previsto:
+
+### Frontend
+- React
+- TypeScript
+- Vite
+### Backend
+- Node.js
+- NestJS
+- JWT
+- Resend
+### Base de datos
+- PostgreSQL
+- Neon
+### Almacenamiento
+- Cloudinary
+### Procesamiento de datos (futuro)
+Python
+ETL de especies y biodiversidad
+
+---
+
+<br>
+
+## 🗺️ Roadmap
+### ✅ Fase 1 – Investigación y planificación
+- Definición de alcance.
+- Relevamiento funcional.
+- Modelo de dominio.
+### 🚧 Fase 2 – MVP
+- Gestión de usuarios.
+- Jardines.
+- Inventario.
+- Calendario.
+### ⏳ Fase 3 – Catálogo de especies
+- Flora.
+- Fauna.
+- Relaciones ecológicas.
+### ⏳ Fase 4 – Gamificación
+- Logros.
+- Insignias.
+- Desafíos.
+### ⏳ Fase 5 – Ciencia ciudadana
+- Observaciones.
+- Biodiversidad local.
+- Datos colaborativos.
 
 ---
 
@@ -68,11 +117,7 @@ El proyecto está dividido en múltiples repositorios, siguiendo una arquitectur
 
 ### 🛠️ En desarrollo (MVP)
 
-Actualmente el proyecto se encuentra en fase de:
-
-- Definición de requerimientos
-- Diseño de arquitectura
-- Preparación de repositorios y entorno
+Semillaria es actualmente un proyecto independiente orientado al aprendizaje, experimentación y construcción de portfolio, con el objetivo de evolucionar hacia una plataforma útil para aficionados a la jardinería, huertas urbanas y biodiversidad.
 
 ---
 
